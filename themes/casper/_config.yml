@@ -1,0 +1,10 @@
+# config
+cover: /imgs/blue-mountain.jpg
+logo: /imgs/avatar.jpg
+# bio:
+
+# Content
+excerpt_link: Read More
+
+# Miscellaneous
+rss: /atom.xml

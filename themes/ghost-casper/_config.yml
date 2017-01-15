@@ -1,0 +1,25 @@
+# config
+cover: //blog.0x5e.cn/imgs/blue-mountain.jpg
+bio: ''
+location: Hangzhou
+# website: Website
+
+# Add social network profile links
+social:
+  # twitter: https://twitter.com/**profile**
+  # google+: https://plus.google.com/**profile**
+  github: https://github.com/0x5e
+
+#opengraph
+twitter_profile: 
+googleplus_profile: 
+fb_admins:
+fb_app_id:
+
+fancybox: true
+fitvids: true
+
+excerpt_link: Read More
+
+# Miscellaneous
+rss: /atom.xml
