@@ -86,3 +86,8 @@ A.framework的工程师看完错误日志以后认为，是B.framework没有编�
 ## 结果
 
 成功解决了两个库的冲突问题，并且动态库的按需加载，使得我有能力对最终的ipa文件做裁剪。同一个ipa安装包，提供给C客户的需要使用A、B两类摄像头，而D客户并不需要摄像头功能，那我就可以把ipa里的动态库删掉，然后重签名，不光节省几十m的体积，也节约了频繁编译花费的大量时间。
+
+## 参考资料
+
+- [https://www.gitbook.com/book/leon_lizi/-framework-/details](https://www.gitbook.com/book/leon_lizi/-framework-/details)
+- [https://skyline75489.github.io/post/2015-8-14_ios_static_dynamic_framework_learning.html](https://skyline75489.github.io/post/2015-8-14_ios_static_dynamic_framework_learning.html)
